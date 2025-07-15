@@ -2,7 +2,7 @@
 🔭 I recently graduated from Rostov State University of Economics (RSUE) with a Bachelor’s degree in Software Engineering.  
 🤝 Currently, I'm looking for a job that feels like a second home — a place where I can grow, contribute, and be part of something meaningful.  
 🌱 Since the beginning of university, I’ve worked with a wide range of technologies, including:  
-C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (a bit), Unity, React, REST APIs, Express.js + Node.js, Mongoose, and more — from web and mobile to desktop development, including cross-platform solutions using MAUI. I tried a lot of things in Uni haha.
+C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (a bit), Unity, React, REST APIs, Express.js + Node.js, Mongoose, and more — from web and mobile to desktop development, including cross-platform solutions using MAUI. I tried a lot of things in Uni haha./n
 💬 Ask me about JavaScript, React, or how a university of economics can produce a software engineer :)  
 ⚡ Fun fact: I'm someone who believes using AI in coding isn’t cheating — it’s smart. It’s a tool, not a shortcut. Just make sure you know what you’re doing!
 
