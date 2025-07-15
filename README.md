@@ -2,7 +2,7 @@
 🔭 I recently graduated from Rostov State University of Economics (RSUE) with a Bachelor’s degree in Software Engineering.  
 🤝 Currently, I'm looking for a job that feels like a second home — a place where I can grow, contribute, and be part of something meaningful.  
 🌱 Since the beginning of university, I’ve worked with a wide range of technologies, including:  
-C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (a bit), Unity, React, REST APIs, Express.js + Node.js, Mongoose, and more — from web and mobile to desktop development, including cross-platform solutions using MAUI (just getting started).  
+C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (a bit), Unity, React, REST APIs, Express.js + Node.js, Mongoose, and more — from web and mobile to desktop development, including cross-platform solutions using MAUI. I tried a lot of things in Uni haha.
 💬 Ask me about JavaScript, React, or how a university of economics can produce a software engineer :)  
 ⚡ Fun fact: I'm someone who believes using AI in coding isn’t cheating — it’s smart. It’s a tool, not a shortcut. Just make sure you know what you’re doing!
 
@@ -12,7 +12,7 @@ C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaS
 🔭 Я недавно окончил Ростовский государственный экономический университет (РГЭУ) по специальности "Программная инженерия".  
 🤝 Сейчас я в поиске работы, которая станет мне вторым домом — местом, где можно развиваться, вносить вклад и быть частью чего-то значимого.  
 🌱 С начала университета я работал с широким спектром технологий, включая:  
-C++, C#, .NET, ASP.NET, Flutter (немного), Python, Java (немного), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (немного), Unity, React, REST API, Express.js + Node.js, Mongoose и многое другое — от веба и мобильной разработки до десктопных и кроссплатформенных решений (MAUI — только начинаю).  
+C++, C#, .NET, ASP.NET, Flutter (немного), Python, Java (немного), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (немного), Unity, React, REST API, Express.js + Node.js, Mongoose и многое другое — от веба и мобильной разработки до десктопных и кроссплатформенных решений. Я много всего попробовал в Университете :)
 💬 Можешь спросить меня о JavaScript, React или о том, как экономический университет может выпустить инженера-программиста :)  
 ⚡ Интересный факт: я верю, что использование ИИ в программировании — не обман, а разумный выбор. Это инструмент, а не чит. Главное — понимать, что ты делаешь.
 
