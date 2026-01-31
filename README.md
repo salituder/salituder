@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I recently graduated from Rostov State University of Economics (RSUE) with a Bachelor’s degree in Software Engineering.  
-🤝 Currently, I'm looking for a job that feels like a second home — a place where I can grow, contribute, and be part of something meaningful.  
+🤝 Currently, I am working as a Fullstack Web Developer at Celestra. 
 🌱 Since the beginning of university, I’ve worked with a wide range of technologies, including:  
 C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (a bit), Unity, React, REST APIs, Express.js + Node.js, Mongoose, and more — from web and mobile to desktop development, including cross-platform solutions using MAUI. I tried a lot of things in Uni haha
 
@@ -11,7 +11,7 @@ C++, C#, .NET, ASP.NET, Flutter (a bit), Python, Java (a bit), TypeScript, JavaS
 
 # 💫 Обо мне:
 🔭 Я недавно окончил Ростовский государственный экономический университет (РГЭУ) по специальности "Программная инженерия".  
-🤝 Сейчас я в поиске работы, которая станет мне вторым домом — местом, где можно развиваться, вносить вклад и быть частью чего-то значимого.  
+🤝 Сейчас работаю Fullstack Веб разработчиком в "Целестре".
 🌱 С начала университета я работал с широким спектром технологий, включая:  
 C++, C#, .NET, ASP.NET, Flutter (немного), Python, Java (немного), TypeScript, JavaScript, Kotlin, Firebase, MongoDB, SQL, PostgreSQL (немного), Unity, React, REST API, Express.js + Node.js, Mongoose и многое другое — от веба и мобильной разработки до десктопных и кроссплатформенных решений. Я много всего попробовал в Университете :)
 
